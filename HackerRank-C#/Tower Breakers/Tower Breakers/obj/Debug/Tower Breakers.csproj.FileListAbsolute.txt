@@ -1,0 +1,7 @@
+C:\Users\Semih Durbal\Desktop\HACKERRANK\HackerRank-C#\Tower Breakers\Tower Breakers\bin\Debug\Tower Breakers.exe.config
+C:\Users\Semih Durbal\Desktop\HACKERRANK\HackerRank-C#\Tower Breakers\Tower Breakers\bin\Debug\Tower Breakers.exe
+C:\Users\Semih Durbal\Desktop\HACKERRANK\HackerRank-C#\Tower Breakers\Tower Breakers\bin\Debug\Tower Breakers.pdb
+C:\Users\Semih Durbal\Desktop\HACKERRANK\HackerRank-C#\Tower Breakers\Tower Breakers\obj\Debug\Tower Breakers.csproj.AssemblyReference.cache
+C:\Users\Semih Durbal\Desktop\HACKERRANK\HackerRank-C#\Tower Breakers\Tower Breakers\obj\Debug\Tower Breakers.csproj.CoreCompileInputs.cache
+C:\Users\Semih Durbal\Desktop\HACKERRANK\HackerRank-C#\Tower Breakers\Tower Breakers\obj\Debug\Tower Breakers.exe
+C:\Users\Semih Durbal\Desktop\HACKERRANK\HackerRank-C#\Tower Breakers\Tower Breakers\obj\Debug\Tower Breakers.pdb

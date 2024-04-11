@@ -1,0 +1,7 @@
+C:\Users\Semih Durbal\Desktop\HACKERRANK\HackerRank-C#\Grid Challenge\Grid Challenge\bin\Debug\Grid Challenge.exe.config
+C:\Users\Semih Durbal\Desktop\HACKERRANK\HackerRank-C#\Grid Challenge\Grid Challenge\bin\Debug\Grid Challenge.exe
+C:\Users\Semih Durbal\Desktop\HACKERRANK\HackerRank-C#\Grid Challenge\Grid Challenge\bin\Debug\Grid Challenge.pdb
+C:\Users\Semih Durbal\Desktop\HACKERRANK\HackerRank-C#\Grid Challenge\Grid Challenge\obj\Debug\Grid Challenge.csproj.AssemblyReference.cache
+C:\Users\Semih Durbal\Desktop\HACKERRANK\HackerRank-C#\Grid Challenge\Grid Challenge\obj\Debug\Grid Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Semih Durbal\Desktop\HACKERRANK\HackerRank-C#\Grid Challenge\Grid Challenge\obj\Debug\Grid Challenge.exe
+C:\Users\Semih Durbal\Desktop\HACKERRANK\HackerRank-C#\Grid Challenge\Grid Challenge\obj\Debug\Grid Challenge.pdb

@@ -1,0 +1,7 @@
+C:\Users\Semih Durbal\Desktop\HACKERRANK\HackerRank-C#\Truck Tour\Truck Tour\obj\Debug\Truck Tour.csproj.AssemblyReference.cache
+C:\Users\Semih Durbal\Desktop\HACKERRANK\HackerRank-C#\Truck Tour\Truck Tour\obj\Debug\Truck Tour.csproj.CoreCompileInputs.cache
+C:\Users\Semih Durbal\Desktop\HACKERRANK\HackerRank-C#\Truck Tour\Truck Tour\bin\Debug\Truck Tour.exe.config
+C:\Users\Semih Durbal\Desktop\HACKERRANK\HackerRank-C#\Truck Tour\Truck Tour\bin\Debug\Truck Tour.exe
+C:\Users\Semih Durbal\Desktop\HACKERRANK\HackerRank-C#\Truck Tour\Truck Tour\bin\Debug\Truck Tour.pdb
+C:\Users\Semih Durbal\Desktop\HACKERRANK\HackerRank-C#\Truck Tour\Truck Tour\obj\Debug\Truck Tour.exe
+C:\Users\Semih Durbal\Desktop\HACKERRANK\HackerRank-C#\Truck Tour\Truck Tour\obj\Debug\Truck Tour.pdb

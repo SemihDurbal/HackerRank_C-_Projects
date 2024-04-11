@@ -1,0 +1,7 @@
+C:\Users\Semih Durbal\Desktop\HACKERRANK\HackerRank-C#\Recursive Digit Sum\Recursive Digit Sum\bin\Debug\Recursive Digit Sum.exe.config
+C:\Users\Semih Durbal\Desktop\HACKERRANK\HackerRank-C#\Recursive Digit Sum\Recursive Digit Sum\bin\Debug\Recursive Digit Sum.exe
+C:\Users\Semih Durbal\Desktop\HACKERRANK\HackerRank-C#\Recursive Digit Sum\Recursive Digit Sum\bin\Debug\Recursive Digit Sum.pdb
+C:\Users\Semih Durbal\Desktop\HACKERRANK\HackerRank-C#\Recursive Digit Sum\Recursive Digit Sum\obj\Debug\Recursive Digit Sum.csproj.AssemblyReference.cache
+C:\Users\Semih Durbal\Desktop\HACKERRANK\HackerRank-C#\Recursive Digit Sum\Recursive Digit Sum\obj\Debug\Recursive Digit Sum.csproj.CoreCompileInputs.cache
+C:\Users\Semih Durbal\Desktop\HACKERRANK\HackerRank-C#\Recursive Digit Sum\Recursive Digit Sum\obj\Debug\Recursive Digit Sum.exe
+C:\Users\Semih Durbal\Desktop\HACKERRANK\HackerRank-C#\Recursive Digit Sum\Recursive Digit Sum\obj\Debug\Recursive Digit Sum.pdb
